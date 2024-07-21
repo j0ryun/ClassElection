@@ -1,0 +1,5 @@
+name: ClassElection
+main: ryun42680\classelection\Classelection
+author: ryun42680
+version: 0.0.1
+api: [ 5.0.0 ]
